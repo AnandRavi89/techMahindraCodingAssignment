@@ -1,0 +1,14 @@
+<environment>
+    <parameter>
+        <key>Platform</key>
+        <value>Android</value>
+    </parameter>
+    <parameter>
+        <key>Android.Version</key>
+        <value>9.0</value>
+    </parameter>
+    <parameter>
+        <key>Stand</key>
+        <value>TechMahindraDemonstration</value>
+    </parameter>
+</environment>
